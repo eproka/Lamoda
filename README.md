@@ -1,18 +1,13 @@
 # Lamoda
 
+## The Repository
 
+This repository is where I (Proka Egor) develop the Lamoda product
 
-## Available Scripts
+### Lamoda
 
-In the project directory, you can run:
+![image](https://github.com/eproka/Lamoda/assets/152181205/3a25fe42-e8f0-4379-a8e4-249af8d7f353)
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `npm test`
 
